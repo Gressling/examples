@@ -9,3 +9,10 @@ The ever-growing wealth of information has led to the emergence of a fourth para
 
 - A uniquely concise introduction for chemists looking to tap the potential of data science.
 - Contains numerous working examples in Jupyter
+
+## Credits to the coders
+The book would not have been possible without the passion and the contributions of hundreds of scientists who had listed their programs on GitHub! I thank Greg
+Landrum, Oliver Beckstein, Daniel Pelliccia, Björn Dahlgreen, and Jean-Baptiste Lamy, five individuals who are part of the GitHub community.
+
+## Contact
+In case of errors or comments, please open an issue on github.com/Gressling/ examples. I am available on LinkedIn or ResearchGate for further contact and discussion.
