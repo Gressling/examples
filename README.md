@@ -1,5 +1,8 @@
 Thorsten Gressling
-# Data Science in Chemistry
+# Data Science in Chemistry - 1st ed.
+
+11/2026: Meanwhile there is a 2nd edition so this repo is legacy and archived.
+
 ## Examples
 Artificial Intelligence, Big Data, Chemometrics and Quantum Computing with Jupyter
 Series: De Gruyter Textbook
